@@ -1,0 +1,38 @@
+	+	-	*	/	=	(	)	a	$		
+0						S1		S2		
+1						S5		S6		
+2					R9					
+3									ACC	
+4					S10					
+5						S5		S6		
+6	R9	R9	R9	R9			R9			
+7	S12	S13					S14			
+8	R4	R4	S15	S16			R4			
+9	R7	R7	R7	R7			R7			
+10						S17		S18		
+11	S12	S13					S22			
+12						S5		S6		
+13						S5		S6		
+14					R8					
+15						S5		S6		
+16						S5		S6		
+17						S5		S6		
+18	R9	R9	R9	R9					R9	
+19	S28	S29							R1	
+20	R4	R4	S30	S31					R4	
+21	R7	R7	R7	R7					R7	
+22	R8	R8	R8	R8			R8			
+23	R2	R2	S15	S16			R2			
+24	R3	R3	S15	S16			R3			
+25	R5	R5	R5	R5			R5			
+26	R6	R6	R6	R6			R6			
+27	S12	S13					S32			
+28						S17		S18		
+29						S17		S18		
+30						S17		S18		
+31						S17		S18		
+32	R8	R8	R8	R8					R8	
+33	R2	R2	S30	S31					R2	
+34	R3	R3	S30	S31					R3	
+35	R5	R5	R5	R5					R5	
+36	R6	R6	R6	R6					R6	

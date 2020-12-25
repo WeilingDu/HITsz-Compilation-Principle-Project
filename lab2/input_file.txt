@@ -1,0 +1,12 @@
+7
+S->A 
+A->A+T 
+A->T
+T->T*F 
+T->F 
+F->(A) 
+F->a
++ * ( ) a #
+S A T F #
+a+a*a
+

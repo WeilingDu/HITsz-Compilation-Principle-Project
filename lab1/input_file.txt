@@ -1,0 +1,7 @@
+S = 123;
+mul_x = s * 2;
+while(mul_x > 100)
+{
+    mul_x = mul_x - 1;
+}
+test = 012 / 0x1f;

@@ -1,0 +1,15 @@
+10
+S->A
+A->F=B 
+B->B+T
+B->B-T 
+B->T
+T->T*F
+T->T/F 
+T->F 
+F->(B) 
+F->a
++ - * / = ( ) a #
+S A B T F #
+d=(a-b)+(a-c)+(a-c)$
+

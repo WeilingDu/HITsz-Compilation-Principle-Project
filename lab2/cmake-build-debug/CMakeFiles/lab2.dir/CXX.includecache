@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/DWL/Desktop/projects/lab2/main.cpp
+cstdio
+-
+vector
+-
+string
+-
+iostream
+-
+fstream
+-
+map
+-
+set
+-
+stack
+-
+queue
+-
+

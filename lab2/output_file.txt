@@ -1,0 +1,9 @@
+F->a
+T->F
+A->T
+F->a
+T->F
+F->a
+T->T*F
+A->A+T
+S->A
